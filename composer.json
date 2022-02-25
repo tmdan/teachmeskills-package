@@ -1,5 +1,5 @@
 {
-    "name": "tmdan/framework",
+    "name": "tmdan/teachmeskills-package",
     "autoload": {
         "psr-4": {
             "Tmdan\\Framework\\": "src/"
