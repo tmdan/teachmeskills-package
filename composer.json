@@ -1,0 +1,15 @@
+{
+    "name": "tmdan/framework",
+    "autoload": {
+        "psr-4": {
+            "Tmdan\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tmdan",
+            "email": "mukhammed.ne@gmail.com"
+        }
+    ]
+}
+
